@@ -1,0 +1,9 @@
+1.) the operator  + must return a Fraction object and not a reference because it is not supposed to alter the left side of the equation.
+2.) Fraction result in operator +
+    Fraction result in operator *
+    Fraction tmp in operator +=
+3.) using isEmpty member function within the operator functions
+    using the operator == in the operator != 
+    using the operator + in the operator +=
+    using the reduce function in some of the operators
+4.) in this workshops I learned how to incorporate operators into a class and in a c++ program
